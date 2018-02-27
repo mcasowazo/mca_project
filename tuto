@@ -1,0 +1,4 @@
+Connection ssh : 
+	- ssh pi@192.168.1.11
+Copy de fichier :
+	- scp pi@address:path/file path
